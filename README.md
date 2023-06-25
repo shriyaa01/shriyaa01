@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning and exploring.
 - 🌱 I’m a student.
 -  A passionate developer with a love for all things coding.
--  
