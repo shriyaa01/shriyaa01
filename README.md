@@ -2,7 +2,7 @@
 Aspiring Machine Learning Developer | B.Tech in Information Technology | Python Enthusiast
 
 📧 Email: shriyasrivastava71@gmail.com
-📍 Location: Faizabad, Ayodhya, India
+📍 Location:India
 🌐 LinkedIn: [linkedin.com/in/shriya-srivastava-905554211](https://www.linkedin.com/in/shriya-srivastava-905554211)
 💻 GitHub: [github.com/shriyaa01](https://github.com/shriyaa01)
 
