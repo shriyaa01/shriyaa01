@@ -2,9 +2,9 @@
 Aspiring Machine Learning Developer | B.Tech in Information Technology | Python Enthusiast
 
 📧 Email: shriyasrivastava71@gmail.com
-📍 Location: India
-🌐 LinkedIn: https://www.linkedin.com/in/shriya-srivastava-905554211
-💻 GitHub: https://github.com/shriyaa01
+📍 Location: Faizabad, Ayodhya, India
+🌐 LinkedIn: [linkedin.com/in/shriya-srivastava-905554211](https://www.linkedin.com/in/shriya-srivastava-905554211)
+💻 GitHub: [github.com/shriyaa01](https://github.com/shriyaa01)
 
 ## Introduction
 Hello! I'm Shriya Srivastava, a passionate B.Tech student majoring in Information Technology. With a keen interest in the fascinating world of machine learning and data science, I'm on a journey to explore and contribute to cutting-edge solutions in this dynamic field.
