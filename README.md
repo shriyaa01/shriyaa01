@@ -3,8 +3,8 @@ Aspiring Machine Learning Developer | B.Tech in Information Technology | Python 
 
 📧 Email: shriyasrivastava71@gmail.com
 📍 Location:India
-🌐 LinkedIn: [linkedin.com/in/shriya-srivastava-905554211](https://www.linkedin.com/in/shriya-srivastava-905554211)
-💻 GitHub: [github.com/shriyaa01](https://github.com/shriyaa01)
+🌐 [LinkedIn](https://www.linkedin.com/in/shriya-srivastava-905554211)
+💻[GitHub](https://github.com/shriyaa01)
 
 ## Introduction
 Hello! I'm Shriya Srivastava, a passionate B.Tech student majoring in Information Technology. With a keen interest in the fascinating world of machine learning and data science, I'm on a journey to explore and contribute to cutting-edge solutions in this dynamic field.
@@ -20,10 +20,10 @@ Python | Scikit Learn | Machine Learning | Data Preprocessing | HTML | CSS | SQL
 
 ## Certifications
 - [Python Skill Test Certificate from HackerRank](https://www.hackerrank.com/certificates/2aa27163a143)
-- Machine Learning Training - Internshala | 11/2022 - 01/2023
-- Python Programming Beyond The Basics And Intermediate Training By Udemy
-- Python Training - Cisco
-- Machine learning training by coursera
+- [Machine Learning Training - Internshala | 11/2022 - 01/2023](https://trainings.internshala.com/view_certificate/36FF1BCF-52F3-0DF4-E338-D8A7E655D454/f6zcmx4qzbe/)
+- [Python Programming Beyond The Basics And Intermediate Training By Udemy](https://www.udemy.com/certificate/UC-2582903f-afb9-48f9-b129-053f0c7dd4aa/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
+- [Python Training - Cisco](https://www.credly.com/badges/859031e5-5bb4-4759-a7ad-8e8844b9dfb5?source=linked_in_profile)
+- [Machine learning for all- coursera](https://coursera.org/share/15f23100a8782c72ccf58fa561a9bb93)
 
 ## Achievements
 - Participated in Innovate India Coding Championship powered by AICTE, Coding Ninjas, and Chandigarh University. Qualified first round.
