@@ -3,7 +3,7 @@ Aspiring Machine Learning Developer | B.Tech in Information Technology | Python 
 
 📧 Email: shriyasrivastava71@gmail.com
 📍 Location:India
-🌐 [LinkedIn](https://www.linkedin.com/in/shriya-srivastava-905554211)
+🌐 [LinkedIn](https://www.linkedin.com/in/ershriyasrivastava/)
 💻[GitHub](https://github.com/shriyaa01)
 
 ## Introduction
