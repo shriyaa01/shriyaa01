@@ -28,28 +28,6 @@ Canossa Convent Girls Inter College, Ayodhya
 Ayodhya, U.P, India  
 *Maths Scored: 81.67%*
 
-### Personal Projects
-
-1. **Predicting Credit Card Approvals**  
-   - Built a predictive model using machine learning and data analysis techniques to forecast credit card approval outcomes.
-
-2. **Customer Churn Prediction**  
-   - Utilized machine learning models to predict customer churn for a business, enhancing retention strategies.
-   - Implemented customer churn prediction using data preprocessing, feature engineering, and ensemble modeling.
-
-3. **Movie Review Sentiment Analysis**  
-   - Implemented data preprocessing for movie reviews, including cleaning, removing stopwords, stemming, and converting text to lowercase.
-   - Employed CountVectorizer to convert text data into numerical features.
-   - Trained different Naive Bayes classifiers to classify sentiment (positive or negative).
-
-4. **Healthcare-Diabetes-Prediction**  
-   - Implemented Diabetes Outcome Prediction with Machine Learning, including data preprocessing, model building (SVM, Logistic Regression, KNN), and evaluation.
-   - Achieved predictions for diabetes outcomes and compared model accuracy.
-
-5. **Student-Result-Analysis**  
-   - Utilized Python libraries for data analysis and visualization.
-   - Included data cleaning, exploratory analysis, outlier detection, and insights.
-
 ### Work Experience
 
 **Machine Learning Intern**  
