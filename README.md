@@ -1,9 +1,8 @@
-## Shriya Srivastava
+## [Shriya Srivastava](https://drive.google.com/file/d/1ZPfoZTsE82ms6ja1-CCmFCj4JQO4j4GV/view?usp=sharing)
 
 📧 Email: shriyasrivastava2002@gmail.com 
 📍 Location: [Ayodhya, U.P, India ](https://g.co/kgs/ezkQGy)   
 🌐 LinkedIn: [linkedin.com/in/ershriyasrivastava](linkedin.com/in/ershriyasrivastava)  
-🔗 GitHub: [github.com/shriyaa01](github.com/shriyaa01)
 
 ### Summary
 
