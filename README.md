@@ -1,8 +1,6 @@
 ## [Shriya Srivastava](https://drive.google.com/file/d/1ZPfoZTsE82ms6ja1-CCmFCj4JQO4j4GV/view?usp=sharing)
 
-📧 [Email](shriyasrivastava2002@gmail.com) 
-📍 [Location](https://g.co/kgs/ezkQGy)   
-🌐 [LinkedIn](linkedin.com/in/ershriyasrivastava)  
+📧 [Email](shriyasrivastava2002@gmail.com) 📍 [Location](https://g.co/kgs/ezkQGy)   🌐 [LinkedIn](linkedin.com/in/ershriyasrivastava)  
 
 ### Summary
 
