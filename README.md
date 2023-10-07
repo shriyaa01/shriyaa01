@@ -1,6 +1,6 @@
 ## [Shriya Srivastava](https://drive.google.com/file/d/1ZPfoZTsE82ms6ja1-CCmFCj4JQO4j4GV/view?usp=sharing)
 
-📧 shriyasrivastava71@gmail.com ||[LinkedIn](https://linkedin.com/in/ershriyasrivastava) || [Kaggle](https://www.kaggle.com/shriyasrivastav) || [Coding Ninja](https://www.codingninjas.com/studio/profile/Shriya)
+📧 shriyasrivastava71@gmail.com || [LinkedIn](https://linkedin.com/in/ershriyasrivastava) || [Kaggle](https://www.kaggle.com/shriyasrivastav) || [Coding Ninja](https://www.codingninjas.com/studio/profile/Shriya) || [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shriyasrivastava2002/practice/) || [LEETCODE](https://leetcode.com/shriyaa01/)
 
 I'm Shriya Srivastava, a passionate and determined fresher with a clear vision for my future in Machine Learning. I aspire to be a part of this exciting field and am a proficient Python developer, actively seeking opportunities to launch my journey. With an insatiable thirst for knowledge, a natural problem-solving aptitude, and a strong foundation in Python programming, I bring enthusiasm and a fresh perspective to the table.
 
